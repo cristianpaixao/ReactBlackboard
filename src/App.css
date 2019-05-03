@@ -1,0 +1,107 @@
+body {
+  overflow: hidden;
+}
+
+.App {
+  background-color: #0f0f0f;
+}
+
+.App:hover {
+  cursor: crosshair;
+}
+
+.option {
+  margin-left: 5px;
+  padding: 6px;
+}
+
+.option:hover {
+  color: #0D4DA2;
+  cursor: pointer;
+}
+.show-hide {
+  color: #f0f0f0;
+  text-align: center;
+  width: 10%;
+  padding: 5px;
+  background-color: #2f2f2f;
+  margin: 0 auto;
+}
+
+.options {
+  display: none;
+  color: #f0f0f0;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.colorContainer {
+  text-align: center;
+}
+.colorPalette {
+  display: inline-flex;
+  
+}
+
+.color {
+  margin-left: 5px;
+  border-radius: 25px;
+  width: 30px;
+  height: 30px;
+  border: 1px solid #f0f0f0;
+}
+
+.white:hover, .light-grey:hover, .blue:hover, .dark-blue:hover, 
+.purple:hover, .pink:hover, .red:hover, .orange:hover, 
+.yellow:hover, .green:hover, .dark-green:hover, .eraser:hover {
+  cursor: pointer;
+}
+.white {
+  background-color: #f0f0f0;
+}
+
+.light-grey {
+  background-color: #7e7e7e;
+}
+
+.blue {
+  background-color: #1BB6ED;
+}
+
+.dark-blue {
+  background-color: #0D4DA2;
+}
+
+.purple {
+  background-color: #9E7EB8;
+}
+
+.pink {
+  background-color: #F9ACC6;
+}
+
+.red {
+  background-color: #C71030;
+}
+
+.orange {
+  background-color: #F37041;
+}
+
+.yellow {
+  background-color: #FFD701;
+}
+
+.green {
+  background-color: #C1D62D;
+}
+
+.dark-green {
+  background-color: #5E9734;
+}
+
+.eraser {
+  background-color: #0f0f0f;
+}
+
+
