@@ -1,6 +1,8 @@
 # ReactBlackboard
 A Blackboard created using react
 
+![React Blackboard](printscreens/1.png)
+
 I've created this virtual whiteboard to use when i need to explain something on a call, though you can use it to give lessons or whatever other use you may need.
 
 Just making it clear, this is not a react component, but it's a complete project. Obviously, this does not rule out the possibility of you using the code of this project in your own projects.
