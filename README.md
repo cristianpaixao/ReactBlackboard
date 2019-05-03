@@ -13,9 +13,9 @@ Anyway, this project was created using React and javascript (ES6 Specifications)
 ## Running it
 To run the project, it's pretty simple:
 
-1- Open a terminal in the project's root directory.
-2- Install the packages using: `npm install` or `yarn install`
-3- Run the project using: `npm start` or `yarn start`
+1. Open a terminal in the project's root directory.
+2. Install the packages using: `npm install` or `yarn install`
+3. Run the project using: `npm start` or `yarn start`
 
 * I'll create a dockerfile soon to make deploy easier
 
